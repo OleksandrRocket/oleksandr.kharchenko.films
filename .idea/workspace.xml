@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0017645d-b693-4573-b4a3-88074f886a57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BelarTimeToLoadPage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BelarTimeToLoadPage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BelarTimeToLoadPage/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BelarTimeToLoadPage/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScriptLevel/JavaScriptLevel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnProject/.idea/LearnProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M3-L14-ClientServerArch/persistence/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M3-L14-ClientServerArch/service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M3-L14-ClientServerArch/ui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M3-L14-ClientServerArch/ui/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M3-L14-ClientServerArch/ui/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M3-L14-ClientServerArch/ui/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M3-L16-Patterns/M3-L16-Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/many_to_many/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/many_to_many/EmployeeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/many_to_one/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/many_to_one/EmployeeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/one_to_many/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/one_to_many/EmployeeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/java/ua/javarush/one_to_many/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L12-HibernateMappingCollect/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/dao/CreateDatesDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/dao/CreateDatesDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/dao/EnumStringConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/dao/EnumStringJavaDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/entity/CreateDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/java/ua/javarush/entity/UserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M4-L9-Hibetnate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/TestProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text-challenge/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text-challenge/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text-challenge/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text-challenge/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logs/logs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logs/out/production/logs/logs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myself.work.generic/src/main/java/ua/javarush/generic/CordXY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myself.work.generic/src/main/java/ua/javarush/generic/CordXYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myself.work.generic/src/main/java/ua/javarush/generic/CordXYZT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myself.work.generic/src/main/java/ua/javarush/generic/Cords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myself.work.generic/src/main/java/ua/javarush/generic/GenOgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myself.work.generic/src/main/java/ua/javarush/generic/TwoGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2dS01cOdZfDNxZUjNKZTFwjsHRE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0017645d-b693-4573-b4a3-88074f886a57" name="Changes" comment="" />
+      <created>1709985964094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709985964094</updated>
+      <workItem from="1709985965240" duration="12000" />
+    </task>
+    <servers />
+  </component>
+</project>
